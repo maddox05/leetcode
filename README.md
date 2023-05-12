@@ -1,11 +1,11 @@
 # LeetCode Solutions
-This repository contains solutions to LeetCode problems, solved in Python and JavaScript by (me) [maddox05](https://github.com/maddox05).
+This repository contains solutions to LeetCode problems, solved in Python and Java by (me) [maddox05](https://github.com/maddox05).
 
 ## Motivation
 The purpose of this repository is to provide a resource for individuals who are preparing for technical interviews and coding challenges. LeetCode is a popular platform for practicing coding challenges and improving problem-solving skills. By providing solutions to a variety of problems, this repository aims to help individuals gain a better understanding of different algorithms and data structures and how they can be applied to solve problems.
 
 ## Contents
-The solutions are organized by problem number and can be found in the respective folders. Each folder contains the solution code in both Python and JavaScript.
+The solutions are organized by problem number and can be found in the respective folders. Each folder contains the solution code in both Python and Java.
 
 ## Usage
 Feel free to use these solutions as a resource for your own preparation for coding interviews and challenges. However, it is important to keep in mind that simply memorizing solutions is not enough to succeed in technical interviews. It is important to understand the underlying concepts and be able to apply them to different problems.
